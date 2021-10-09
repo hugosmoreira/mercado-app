@@ -30,8 +30,8 @@ export const COLORS = {
 };
 export const SIZES = {
     // global sizes
-    base: 8,
-    font: 14,
+    base: 7,
+    font: 12,
     radius: 12,
     padding: 24,
 
