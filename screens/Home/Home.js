@@ -305,7 +305,7 @@ const Home = () => {
                         ...FONTS.body3
                     }}
                 >
-                    DELIVERY TO
+                    ENTREGA PARA
                 </Text>
 
                 <TouchableOpacity

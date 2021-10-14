@@ -24,15 +24,15 @@ const categories = [
 
 
 
-const hamburger = {
+const cafe = {
     id: 1,
-    name: "Hamburger",
-    description: "Chicken patty hamburger",
+    name: "cafe",
+    description: "Cafe",
     categories: [1, 2],
-    price: 15.99,
+    price: 11.99,
     calories: 78,
     isFavourite: true,
-    image: require("../assets/dummyData/hamburger.png")
+    image: require("../assets/dummyData/cafe.png")
 }
 
 const hotTacos = {
@@ -88,6 +88,17 @@ const arroz = {
     calories: 178,
     isFavourite: true,
     image: require("../assets/dummyData/tiojoao.png")
+}
+
+const detergent = {
+    id: 7,
+    name: "detergente",
+    description: "detergente",
+    categories: [1, 2, 3],
+    price: 6.99,
+    calories: 0,
+    isFavourite: true,
+    image: require("../assets/dummyData/detergente.png")
 }
 
 const menu = [
